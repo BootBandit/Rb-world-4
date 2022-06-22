@@ -1,6 +1,4 @@
---https://developer.roblox.com/en-us/api-reference/enum/KeyCode
-getgenv().Time 86
-getgenv().ActivationKeybind = Enum.KeyCode.Q
+
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
